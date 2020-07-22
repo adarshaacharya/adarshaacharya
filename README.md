@@ -12,8 +12,14 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
 
  💬 Ask me about anything [here](https://github.com/adarshaacharya/adarshaacharya/issues)
 
-  
----
+
+ ## ⚡ Technologies
+  <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs1.svg"> &nbsp; &nbsp;
+  <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
+  <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/gatsby.svg">
+
+
 
 [![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
