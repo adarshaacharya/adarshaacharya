@@ -18,7 +18,7 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/gatsby.svg">
-
+---
 
 <br/> 
 
