@@ -12,22 +12,12 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
 
  💬 Ask me about anything [here](https://github.com/adarshaacharya/adarshaacharya/issues)
 
-
-## ⚡ Technologies
-![JavaScript](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
   
 ---
 
 [![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views) 
 
  🏆 Checkout my [website](http://adarshaacharya.com.np) for more details.
