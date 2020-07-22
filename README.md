@@ -1,11 +1,17 @@
-# Aadarsha Acharya 👨‍💻
-
-[![Twitter Badge](https://img.shields.io/badge/-@adarshatweets-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adarshatweets)](https://twitter.com/adarshatweets) 
-[![Linkedin Badge](https://img.shields.io/badge/-adarshaacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarshaacharya/)](https://www.linkedin.com/in/adarshaacharya/)
+# [Aadarsha Acharya](http://adarshaacharya.com.np/) 👨‍💻
+[![Twitter Badge](https://img.shields.io/badge/-@adarshatweets-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adarshatweets)](https://twitter.com/adarshatweets) [![Linkedin Badge](https://img.shields.io/badge/-adarshaacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarshaacharya/)](https://www.linkedin.com/in/adarshaacharya/)
 [![GitHub Badge](https://img.shields.io/badge/-@adarshaacharya-%23181717?style=flat-square&logo=github)](https://github.com/adarshaacharya)
 [![Gmail Badge](https://img.shields.io/badge/-connectwithadarsha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithadarsha@gmail.com)](mailto:connectwithadarsha@gmail.com)
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://adarshaacharya.com.np)
 ---
+## Hi everyone <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
+I am Aadarsha Acharya, currently pursuing my bachelor's degree majoring in computer science from [Tribhuvan University](http://www.tribhuvan-university.edu.np/). 
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya)
+---
+[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views)
