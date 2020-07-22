@@ -1,35 +1,8 @@
-### Hi there ! 👋
+# Aadarsha Acharya 👨‍💻
 
-I'm Aadarsha Acharya from Kathmandu, Nepal. 
-
-- 🌱 I’m currently learning React JS & Node.
-- ⚡ Visit my portfolio [here](http://adarshaacharya.com.np/)
-- 💬  [Ask me about anything](https://github.com/adarshaacharya/adarshaacharya/issues)
-
-- 📫 You can reach out to me via below links, DMs open:
-
-    <a href="https://twitter.com/aadarshatweets">
-      <img align="left" alt="Twitter" src="https://img.icons8.com/color/21/000000/twitter-circled.png" />
-    </a>
-    <a href="https://www.linkedin.com/in/adarshaacharya/">
-      <img align="left" alt="Linkdein" src="https://img.icons8.com/color/21/000000/linkedin-circled.png"/>
-    </a>
-<br />
-<br />
+[![Twitter Badge](https://img.shields.io/badge/-@adarshatweets-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adarshatweets)](https://twitter.com/adarshatweets)
+[![Linkedin Badge](https://img.shields.io/badge/-adarshaacharya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarshaacharya/)](https://www.linkedin.com/in/adarshaacharya/)
+[![Gmail Badge](https://img.shields.io/badge/-connectwithadarsha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithadarsha@gmail.com)](mailto:connectwithadarsha@gmail.com)
 
 
-
-<!--
-**adarshaacharya/adarshaacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React & Node.js
-- 🌱 I’m currently learning React JS & Node.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya)
