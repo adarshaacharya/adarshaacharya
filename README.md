@@ -5,8 +5,11 @@
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://adarshaacharya.com.np)
 ---
 ## Hi everyone <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
-I am Aadarsha Acharya, currently pursuing my bachelor's degree majoring in computer science from [Tribhuvan University](http://www.tribhuvan-university.edu.np/). 
+I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mostly work on Javascript based technologies both on backend & frontend. I'm currently pursuing my bachelor's degree majoring in computer science from [Tribhuvan University](http://www.tribhuvan-university.edu.np/).  
 
+
+
+## ⚡ Technologies
 
 ---
 [![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
