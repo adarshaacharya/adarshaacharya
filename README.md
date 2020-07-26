@@ -25,4 +25,4 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views) 
 
- 🏆 Checkout my [website](http://adarshaacharya.com.np) for more details.
+ <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> Checkout my [website](http://adarshaacharya.com.np) for more details. 
