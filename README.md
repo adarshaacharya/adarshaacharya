@@ -20,7 +20,7 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/gatsby.svg">
 <br/> 
 
-[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views) 
