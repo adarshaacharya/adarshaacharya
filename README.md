@@ -4,11 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-connectwithadarsha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithadarsha@gmail.com)](mailto:connectwithadarsha@gmail.com)
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://adarshaacharya.com.np)
 ---
-[![Twitter Badge](https://img.shields.io/badge/-@aadarshatweets-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=aadarshatweets "Follow on Twitter")
-[![Gmail Badge](https://img.shields.io/badge/-connectwithadarsha@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:connectwithadarsha@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Aadarsha%20Acharya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adarshaacharya/ "Connect on LinkedIn")
 
----
 
 <p>
  <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/programmer.gif" width="310px alt="programmergif">
