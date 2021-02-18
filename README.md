@@ -17,7 +17,7 @@ I'm Aadarsha Acharya, currently an undergraduate student at [Tribhuvan Universit
 
 
 
-### ⚡ Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🛠 Languages and Tools 
   <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
   <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/typescript.svg"> &nbsp; &nbsp;
   <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
