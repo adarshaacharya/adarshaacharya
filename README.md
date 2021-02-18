@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-connectwithadarsha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithadarsha@gmail.com)](mailto:connectwithadarsha@gmail.com)
 [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://adarshaacharya.com.np)
 ---
-<img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/octocat-anime.gif"/>
+
 
 ## Hi everyone <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
 I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mostly work on Javascript based technologies both on backend & frontend. I'm currently pursuing my bachelor's degree majoring in computer science from [Tribhuvan University](http://www.tribhuvan-university.edu.np/).  
