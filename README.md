@@ -12,10 +12,8 @@
 
 
 ## Hi everyone <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
-I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mostly work on Javascript based technologies both on backend & frontend. I'm currently pursuing my bachelor's degree majoring in computer science from [Tribhuvan University](http://www.tribhuvan-university.edu.np/).  
 
-
- 💬 Ask me about anything [here](https://github.com/adarshaacharya/adarshaacharya/issues)
+I'm undergraduate student at [Tribhuvan University](http://www.tribhuvan-university.edu.np/) pursuing bachelor's degree majoring in computer science, who is passionate about backend and frontend technologies. I also love contributing open-source.
 
 
 
