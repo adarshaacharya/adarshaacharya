@@ -6,7 +6,7 @@
 ---
 
 <p>
- <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/main/assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/programmer.gif" width="310px alt="programmergif">
 </p>
 
 
@@ -18,7 +18,7 @@ I am Aadarsha Acharya, an open-source developer based in Kathmandu, Nepal. I mos
 
 
 
- ## ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+**⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/typescript.svg"> &nbsp; &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
