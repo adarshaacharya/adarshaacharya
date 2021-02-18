@@ -6,7 +6,7 @@
 ---
 
 <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/main/assets/programmer.gif" width="310px alt="programmergif">
 </p>
 
 
