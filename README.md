@@ -11,7 +11,7 @@
 </p>
 
 
-## Hi there,<img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
+## Hi there <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
 
 I'm Aadarsha Acharya, currently an undergraduate student at [Tribhuvan University](http://www.tribhuvan-university.edu.np/), pursuing bachelor's degree majoring in computer science. I'm passionate about backend and frontend technologies. I also love contributing to open source.
 
