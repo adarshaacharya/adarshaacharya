@@ -13,7 +13,7 @@ I'm Aadarsha Acharya from [Nepal](https://en.wikipedia.org/wiki/Nepal). I work m
 
 
 
-[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views) 
