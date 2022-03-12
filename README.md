@@ -9,9 +9,6 @@
 
 
 
-I'm Aadarsha Acharya from [Nepal](https://en.wikipedia.org/wiki/Nepal). I work mostly on javascript and its frameworks both on backend and frontend.
-
-
 [![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
