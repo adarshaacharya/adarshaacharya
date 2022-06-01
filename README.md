@@ -9,9 +9,10 @@
 
 
 
-[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&include_all_commits=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Aadarsha Acharya github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adarshaacharya.adarshaacharya&title=Profile%20views) 
 
- <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> Checkout my [website](http://adarshaacharya.com.np) for more details. 
+Checkout my [website](http://adarshaacharya.com.np) for more details. 
