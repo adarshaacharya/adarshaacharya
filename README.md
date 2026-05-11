@@ -8,9 +8,8 @@
 - **[MentorLabs](https://github.com/adarshaacharya/MentorLabs)** — Collaborative learning and mentorship platform.
 - **[Adarsha.dev](https://github.com/adarshaacharya/adarsha.dev)** — Personal website and technical blog.
 - **[CodeTreats](https://github.com/adarshaacharya/CodeTreats)** — In-browser IDE for running, saving, and sharing code snippets.
-- **[Bricks](https://github.com/adarshaacharya/bricks)** — Backend API for a real estate marketplace with auth, roles, property management, meetings, Prisma, Redis, and Docker.
-- **[PassMan](https://github.com/adarshaacharya/PassMan)** — Cloud-based password manager built with Next.js, TypeScript, PostgreSQL, Prisma, Chakra UI, and Docker.
-
+- **[Bricks](https://github.com/adarshaacharya/bricks)** — Backend API for a real estate marketplace.
+- **[PassMan](https://github.com/adarshaacharya/PassMan)** — Cloud-based password manager.
 ---
 
 <h4 align="center">
