@@ -1,15 +1,20 @@
-*Featured Projects*
+#### Featured Projects
 
-- **[Archer](https://github.com/adarshaacharya/archer)** — Terminal-first AI coding agent with approval-aware tools, patch-based editing, and local policy enforcement.
-- **[Humantryx](https://github.com/adarshaacharya/humantryx)** — AI-powered HRMS for employees, attendance, payroll, resume screening, and internal knowledge search.
-- **[Cedular](https://github.com/adarshaacharya/cedular)** — Email-based AI agent for autonomous meeting scheduling.
-- **[Form Axis](https://github.com/adarshaacharya/form-axis)** — AI-powered form builder with a conversational interface.
-- **[Skills](https://github.com/adarshaacharya/skills)** — Custom skills and workflow patterns for coding agents.
-- **[MentorLabs](https://github.com/adarshaacharya/MentorLabs)** — Collaborative learning and mentorship platform.
-- **[Adarsha.dev](https://github.com/adarshaacharya/adarsha.dev)** — Personal website and technical blog.
-- **[CodeTreats](https://github.com/adarshaacharya/CodeTreats)** — In-browser IDE for running, saving, and sharing code snippets.
-- **[Bricks](https://github.com/adarshaacharya/bricks)** — Backend API for a real estate marketplace.
-- **[PassMan](https://github.com/adarshaacharya/PassMan)** — Cloud-based password manager.
+
+| Project | Description | ⭐ Stars |
+|---|---|---|
+| [Archer](https://github.com/adarshaacharya/archer) | Terminal-first AI coding agent with approval-aware tools, patch-based editing, and local policy enforcement. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/archer?style=flat-square) |
+| [Humantryx](https://github.com/adarshaacharya/humantryx) | AI-powered HRMS for employees, attendance, payroll, resume screening, and internal knowledge search. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/humantryx?style=flat-square) |
+| [Cedular](https://github.com/adarshaacharya/cedular) | Email-based AI agent for autonomous meeting scheduling. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/cedular?style=flat-square) |
+| [Form Axis](https://github.com/adarshaacharya/form-axis) | AI-powered form builder with a conversational interface. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/form-axis?style=flat-square) |
+| [Skills](https://github.com/adarshaacharya/skills) | Custom skills and workflow patterns for coding agents. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/skills?style=flat-square) |
+| [MentorLabs](https://github.com/adarshaacharya/MentorLabs) | Collaborative learning and mentorship platform. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/MentorLabs?style=flat-square) |
+| [Adarsha.dev](https://github.com/adarshaacharya/adarsha.dev) | Personal website and technical blog. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/adarsha.dev?style=flat-square) |
+| [CodeTreats](https://github.com/adarshaacharya/CodeTreats) | In-browser IDE for running, saving, and sharing code snippets. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/CodeTreats?style=flat-square) |
+| [Bricks](https://github.com/adarshaacharya/bricks) | Backend API for a real estate marketplace. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/bricks?style=flat-square) |
+| [PassMan](https://github.com/adarshaacharya/PassMan) | Cloud-based password manager. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/PassMan?style=flat-square) |
+| [Tour360](https://github.com/adarshaacharya/Tour360) | Virtual reality viewing platform for exploring 360° images, booking flights, hotels, and travel guides. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/Tour360?style=flat-square) |
+
 ---
 
 <h4 align="center">
