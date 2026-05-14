@@ -4,6 +4,7 @@
 | Project | Description | ⭐ Stars |
 |---|---|---|
 | [Archer](https://github.com/adarshaacharya/archer) | Terminal-first AI coding agent with approval-aware tools, patch-based editing, and local policy enforcement. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/archer?style=flat-square) |
+| [formwright](https://github.com/adarshaacharya/formwright) |Fully customizable dynamic form builder npm package for React apps. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/formwright?style=flat-square) |
 | [Humantryx](https://github.com/adarshaacharya/humantryx) | AI-powered HRMS for employees, attendance, payroll, resume screening, and internal knowledge search. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/humantryx?style=flat-square) |
 | [Cedular](https://github.com/adarshaacharya/cedular) | Email-based AI agent for autonomous meeting scheduling. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/cedular?style=flat-square) |
 | [Form Axis](https://github.com/adarshaacharya/form-axis) | AI-powered form builder with a conversational interface. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/form-axis?style=flat-square) |
