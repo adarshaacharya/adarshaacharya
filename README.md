@@ -1,7 +1,7 @@
 #### Featured Projects
 
 
-| Project | Description | ⭐ Stars |
+| Project | Description | ⭐  |
 |---|---|---|
 | [Archer](https://github.com/adarshaacharya/archer) | Terminal-first AI coding agent with approval-aware tools, patch-based editing, and local policy enforcement. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/archer?style=flat-square) |
 | [formwright](https://github.com/adarshaacharya/formwright) |Fully customizable dynamic form builder npm package for React apps. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/formwright?style=flat-square) |
@@ -21,7 +21,7 @@
 #### Dev Tools
 
 
-| Project | Description | ⭐ Stars |
+| Project | Description | ⭐  |
 |---|---|---|
 | [shitcommits](https://github.com/adarshaacharya/shitcommits) | Humorous commit message generator for developers who are tired of writing boring commits. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/shitcommits?style=flat-square) |
 | [ApiHub](https://github.com/adarshaacharya/ApiHub) | VSCode extension to discover free third-party API URLs across different categories for quick testing and development. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/ApiHub?style=flat-square) |
