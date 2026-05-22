@@ -1,3 +1,22 @@
+
+<h4 align="center">
+  <a href="https://adarsha.dev">
+    👤&nbsp;&nbsp;Website
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  <a href="https://adarsha.dev/blog">
+    📖&nbsp;&nbsp;Blog
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/adarshaacharya">
+    💬&nbsp;&nbsp;Contact
+  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
+
+  <a href="https://x.com/adarsha_ach">
+    ⭐️&nbsp;&nbsp;Follow
+  </a>
+</h4>
+
 #### Featured Projects
 
 
@@ -30,20 +49,3 @@
 | [states-nepal](https://github.com/adarshaacharya/states-nepal) | Structured dataset and utilities for Nepal provinces, districts, municipalities, and geographic state data. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/states-nepal?style=flat-square) |
 ---
 
-<h4 align="center">
-  <a href="https://adarsha.dev">
-    👤&nbsp;&nbsp;Website
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-
-  <a href="https://adarsha.dev/blog">
-    📖&nbsp;&nbsp;Blog
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  
-  <a href="https://linkedin.com/in/adarshaacharya">
-    💬&nbsp;&nbsp;Contact
-  </a>&nbsp;&nbsp;·&nbsp;&nbsp;
-
-  <a href="https://x.com/adarsha_ach">
-    ⭐️&nbsp;&nbsp;Follow
-  </a>
-</h4>
