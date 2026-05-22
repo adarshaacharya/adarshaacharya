@@ -17,6 +17,8 @@
   </a>
 </h4>
 
+---
+
 #### Featured Projects
 
 
@@ -47,5 +49,4 @@
 | [ApiHub](https://github.com/adarshaacharya/ApiHub) | VSCode extension to discover free third-party API URLs across different categories for quick testing and development. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/ApiHub?style=flat-square) |
 | [aaja](https://github.com/adarshaacharya/aaja) | cli tool to get details about today's nepali date, tithi, public events and current time. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/aaja?style=flat-square) |
 | [states-nepal](https://github.com/adarshaacharya/states-nepal) | Structured dataset and utilities for Nepal provinces, districts, municipalities, and geographic state data. | ![GitHub stars](https://img.shields.io/github/stars/adarshaacharya/states-nepal?style=flat-square) |
----
 
